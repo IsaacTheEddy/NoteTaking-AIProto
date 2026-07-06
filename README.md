@@ -10,8 +10,6 @@ The apps purpose is to work as a **idea collector**, **cleaner**, and **rational
 - **Idea Propulsion** - A uset can record a few words for things like a grocery list, movie list, or even personal art with words and the app will propel those ideas while again maintianing the true form and originality of the ideas as possible.
 - **Voice Memos**/Recording(WIP Feature) - THe app will have a voice memo option where you can skip the typing or voice-to-text and record sound for it to be transcibed incase you would like to see it written out, or if you would like to just listen to for rhythimc reasons. Either way the local AI will still be able to perform the same features as before.
 
-# Transparency 
-This is app is being created so that everyday people may have the access to Artifical Intelligence with privacy and tool use in mind. This will not be a **chatbot**. I will also be developing this app in **Antigravity**. Im not one to heavily rely on AI but in this field of career I must be proficient in working with it. 
 
 # Collaboraters 
 
