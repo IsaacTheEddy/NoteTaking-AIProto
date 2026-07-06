@@ -1,56 +1,18 @@
-# Welcome to your Expo app 👋
+# This is WIP (Name is also).
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+# Description
+The apps purpose is to work as a idea collector, cleaner, and rationalizer. The user can speak to the app (ideally through assistants) and have option to tell the on board AI to perform. The app is primarily a mobile app but will also have a mobile app. I want this app to as local and private as possible, but still powerful and useful.
 
-## Get started
+## Features
+- Simple note-taking proccessing feature
+- Visually smooth and consistent layout between web and phone applications
+- Stream of Conscience Rationalizer - The app will take stream of conscience garble or frankly put nonsense and structure it out to a find a logical flow or line to follow. Good for brainstorming and dream recording.
+- Idea Propulsion - A uset can record a few words for things like a grocery list, movie list, or even personal art with words and the app will propel those ideas while again maintianing the true form and originality of the ideas as possible.
+- Voice Memos/Recording(WIP Feature) - THe app will have a voice memo option where you can skip the typing or voice-to-text and record sound for it to be transcibed incase you would like to see it written out, or if you would like to just listen to for rhythimc reasons. Either way the local AI will still be able to perform the same features as before.
 
-1. Install dependencies
+# Transparency 
+This is app is being created so that everyday people may have the access to Artifical Intelligence with privacy and tool use in mind. This will not be a chatbot. I will also be developing this app in Antigravity. Im not one to heavily rely on AI but in this field of career I must be proficient in working with it. 
 
-   ```bash
-   npm install
-   ```
+# Collaboraters 
 
-2. Start the app
-
-   ```bash
-   npx expo start
-   ```
-
-In the output, you'll find options to open the app in a
-
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-### Other setup steps
-
-- To set up ESLint for linting, run `npx expo lint`, or follow our guide on ["Using ESLint and Prettier"](https://docs.expo.dev/guides/using-eslint/)
-- If you'd like to set up unit testing, follow our guide on ["Unit Testing with Jest"](https://docs.expo.dev/develop/unit-testing/)
-- Learn more about the TypeScript setup in this template in our guide on ["Using TypeScript"](https://docs.expo.dev/guides/typescript/)
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+[Isaac Edwards](www.github.com/IsaacTheEddy)
